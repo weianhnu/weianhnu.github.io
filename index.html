@@ -1,14 +1,9 @@
 ---
 layout: default
+title: Home
 ---
 
-            
-{% include carrier-profile.html %}
-            
-{% include experience.html %}
-            
-{% include projects.html %}
-            
-{% include skills.html %}
-
-
+<div class="hero">
+  <img src="{{ site.baseurl }}{{ site.hero.image }}" />
+  <p>{{ site.hero.caption }}</p>
+</div>
