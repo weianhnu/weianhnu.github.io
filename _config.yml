@@ -1,4 +1,5 @@
 # Site settings
+<<<<<<< HEAD
 title: Freelancer
 email: your-email@domain.com
 url: https://example.github.io
@@ -56,6 +57,29 @@ address:
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+=======
+title: Weian Blog
+SEOTitle: 郭伟岸的博客 | weian Blog
+header-img: img/home-bg.jpg
+email: huxpro@gmail.com
+description: "博客，与你一起发。。。"
+keyword: " 博客, 个人网站, 互联网"
+url: ""              # your host, for absolute URL
+baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+
+
+
+# SNS settings
+RSS: false
+weibo_username:     huxpro
+zhihu_username:     huxpro
+github_username:    huxpro
+#twitter_username:  huxpro
+facebook_username:  huxpro
+# linkedin_username:  firstname-lastname-idxxxx
+
+
+>>>>>>> origin/master
 
 # Build settings
 markdown: kramdown
